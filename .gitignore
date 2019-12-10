@@ -1,0 +1,15 @@
+*.pyc
+*~
+/.vscode
+__pycache__
+.venv
+db.sqlite3
+/static
+.DS_Store
+.python-version
+Pipfile
+Pipfile.lock
+start_bash.bat
+acsess_atom.bat
+acsess_bash.bat
+.data
